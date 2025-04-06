@@ -1,5 +1,5 @@
 # Hello, I'm Alex!
-<a href="[https://linkedin.com](https://www.linkedin.com/in/alex-cochrane-343279162/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alex-cochrane-343279162/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Army Intelligence veteran with nine years of honorable service studying Computer Science. My excperience facing multifaceted challenges spanning various domains, Physical and Personnel Security management, and real world threats while serving made me realize how much I love complex problem solving - especially when it has a tangible and measurable outcome.  My main goal to contribute valuable skills and experience to further advance mission-critical objectives within a dynamic environment specializing in a cyber domain. This experience, combined with my strong problem-solving abilities, has driven my passion for cybersecurity and prepared me to take the next step in my career. I'm highly motivated and dependable and I value Integrity deeply. Some values I hold dearly are protecting organizations and people, ensuring access of information is in the hands of those who need it, and utilizing my past experiences to the benefit of everybody and everything I can.
