@@ -8,7 +8,7 @@ Army Intelligence veteran with nine years of honorable service studying Computer
 
 ## Objective
 
-My journey in the intelligence community showed me how deep the Cyber Threat goes and that has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and wanting to utilize my experience and skills in a specialized field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the intelligence community showed me how deep the Cyber Threat goes and that has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and wanting to utilize my experience and skills in a specialized field, specifically aiming to join a Security Operations Center (SOC) or become a software engineer.
 
 ## Skills
 
@@ -22,7 +22,11 @@ Security Compliance
 <hr>
 
 ## Tools
-
+HTML
+CSS
+JavaScript
+Python
+C++
 <hr> 
 
 
