@@ -22,11 +22,11 @@ Security Compliance
 <hr>
 
 ## Tools
-HTML
-CSS
-JavaScript
-Python
-C++
+HTML<br>
+CSS<br>
+JavaScript<br>
+Python<br>
+C++<br>
 <hr> 
 
 
