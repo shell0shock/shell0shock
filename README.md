@@ -12,13 +12,7 @@ My journey in the intelligence community showed me how deep the Cyber Threat goe
 
 ## Skills
 
-Strong Written & Verbal Communication Skills
-Complex Problem Solving
-Critical Thinking
-Programming
-Adaptability & rapid learner
-Analysis Skills
-Security Compliance
+Strong Written & Verbal Communication Skills<br>Complex Problem Solving<br>Critical Thinking<br>Programming<br>Adaptability & rapid learner<br>Analysis Skills<br>Security Compliance<br>
 <hr>
 
 ## Tools
