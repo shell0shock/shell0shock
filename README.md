@@ -20,7 +20,6 @@ Spent about a decade working in the intelligence sector with the US Army, pivote
 <a href="https://www.github.com/shell0shock" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shell0shock?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
