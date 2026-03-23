@@ -6,10 +6,7 @@ Army Intelligence veteran working towards my Bachelor's Degree in Computer Scien
 <hr>
 
 ## Tools / Experience / Skills
-HTML<br>
+SQL<br>
 Python<br>
 C++<br>
 <hr> 
-
-
-## Projects
