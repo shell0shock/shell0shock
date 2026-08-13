@@ -3,7 +3,7 @@
 ## Veteran, Computer Science Student, Asset.
 
 ### My Background
-I've spent A little over 9 years working in the intelligence sector with the US Army and a stint with DHS, pivoted to the civilian world and am pursuing my Bachelors in Computer Science Concentrating in Software Engineering. I love to learn, play around and break things and try new things out!
+I've spent a little over 9 years working in the intelligence sector with the US Army and a stint with DHS, pivoted to the civilian world and am pursuing my Bachelors in Computer Science Concentrating in Software Engineering. I love to learn, play around and break things and try new things out!
 
 * 🌍  I'm based in Pennsylvania
 * 🧠  I'm currently learning Python, SQL, Java, Rust and generally tinkering
