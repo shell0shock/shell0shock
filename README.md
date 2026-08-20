@@ -30,7 +30,6 @@ I've spent a little over 9 years working in the intelligence sector with the US 
 ### 🔗 Socials & Badges
 
 <div align="left">
-  <a href="https://www.github.com/shell0shock"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://www.linkedin.com/in/alex-cochrane-343279162/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
   <a href="https://www.github.com/shell0shock"><img src="https://img.shields.io/github/followers/shell0shock?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="32" /></a>
 </div>
