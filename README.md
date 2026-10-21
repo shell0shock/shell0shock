@@ -9,7 +9,7 @@ I've spent a little over 9 years working in the intelligence sector with the US 
 * 🧠  I'm currently learning Python, SQL, Java, Rust and generally tinkering
 * 💬  I love coffee, playing games, and generally am just a nerd; I play a lot of games and enjoy a lot of things!
 * 💻  For as long as I can remember, I've always been interested in the _why_ and _how_ things worked, software has always been a special interest to me!
-* 💾  Fun fact: I own and occasionally use an original Commodore 64 on a CRT screen! I miss the way the internet and technology used to _feel_
+
   
 
 ### 🛠 Skills & Tools
