@@ -3,12 +3,12 @@
 ## Veteran, Computer Science Student, Asset.
 
 ### My Background
-I've spent a little over 9 years working in the intelligence sector with the US Army and a stint with DHS, pivoted to the civilian world and am pursuing my Bachelors in Computer Science Concentrating in Software Engineering. I love to learn, play around and break things and try new things out!
+I've spent a little over 9 years working in the intelligence sector with the US Army and after an internship with Homeland Security I moved back home and am pursuing my Bachelors in Computer Science Concentrating in Software Engineering and am working in IT. I'm learning and growing, working toward my goals of being a software engineer.
 
 * 🌍  I'm based in Pennsylvania
-* 🧠  I'm currently learning C++ and Java
-* 💬  I love coffee, playing games, and generally am just a nerd; I play a lot of games and enjoy a lot of things!
-* 💻  For as long as I can remember, I've always been interested in the _why_ and _how_ things worked, software has always been a special interest to me!
+* 🧠  I'm currently digging into C++ and trying stuff out
+* 💬  I love coffee, playing games, and generally am just a nerd; I play a lot of games and often nerd out on random subjects
+* 💻  For as long as I can remember, I've always been interested in the _why_ and _how_ things worked, software has always been a special interest to me
 
   
 
